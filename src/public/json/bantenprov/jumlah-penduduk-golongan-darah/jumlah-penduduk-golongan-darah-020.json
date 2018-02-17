@@ -1,100 +1,806 @@
 [
   {
     "xAxis": {
-      "opd": "Angkatan Kerja",
-      "region": "Provinsi",
+      "category": "(L) GOL DARAH A",
+      "region": "Kabupaten",
       "name": "Banten",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          5.18,
-          5.18,
-          5.34,
-          5.33,
-          5.59
+          7901,
+          2494,
+          30970,
+          3128,
+          50539,
+          7935,
+          3324,
+          14506
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "opd": "Angkatan Kerja",
-      "region": "Negara",
-      "name": "Indonesia",
-      "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          119.85,
-          120.17,
-          121.87,
-          122.38,
-          125.44         
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "opd": "Rasio penyerapan anggaran per OPD",
-      "region": "Provinsi",
+      "category": "(P) GOL DARAH A",
+      "region": "Kabupaten",
       "name": "Banten",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          4.66,
-          4.69,
-          4.86,
-          4.83,
-          5.09          
+          7211,
+          2372,
+          29352,
+          2680,
+          50527,
+          7180,
+          3086,
+          14933
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "opd": "Rasio penyerapan anggaran per OPD",
-      "region": "Negara",
-      "name": "Indonesia",
+      "category": "(L) GOL DARAH B",
+      "region": "Kabupaten",
+      "name": "Banten",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
       ]
     },
     "series": [
       {
         "data": [
-          112.5,
-          112.76,
-          114.63,
-          114.82,
-          118.41         
+          3322,
+          1543,
+          16450,
+          2865,
+          55243,
+          8353,
+          3337,
+          16548
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH B",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3221,
+          1591,
+          15977,
+          2592,
+          58602,
+          8214,
+          3262,
+          17417
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) GOL DARAH AB",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2172,
+          959,
+          7253,
+          1145,
+          25202,
+          3446,
+          1407,
+          6716
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH AB",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1902,
+          939,
+          6531,
+          919,
+          23053,
+          3069,
+          1190,
+          6277
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) GOL DARAH O",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5500,
+          2998,
+          31931,
+          5057,
+          113718,
+          15148,
+          6086,
+          30147
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH O",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4391,
+          2525,
+          28007,
+          4025,
+          102848,
+          12976,
+          5273,
+          28720
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) GOL DARAH A+",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2761,
+          152,
+          514,
+          105,
+          1699,
+          219,
+          156,
+          431
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH A+",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2704,
+          116,
+          708,
+          94,
+          2361,
+          287,
+          179,
+          622
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) GOL DARAH A-",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          39,
+          14,
+          40,
+          9,
+          93,
+          17,
+          12,
+          27
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH A-",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          40,
+          13,
+          41,
+          9,
+          94,
+          10,
+          8,
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) GOL DARAH B+",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          333,
+          82,
+          60561,
+          119,
+          2049,
+          249,
+          72,
+          575
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH B+",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          379,
+          86,
+          59183,
+          86,
+          2808,
+          283,
+          60,
+          725
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) GOL DARAH B-",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          43,
+          12,
+          36,
+          9,
+          110,
+          15,
+          11,
+          34
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH B-",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          41,
+          10,
+          37,
+          6,
+          133,
+          21,
+          6,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) GOL DARAH AB+",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          163,
+          34,
+          250,
+          21,
+          818,
+          157,
+          28,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH AB+",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          194,
+          50,
+          258,
+          27,
+          1104,
+          141,
+          17,
+          218
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) GOL DARAH AB-",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          128,
+          115,
+          188,
+          53,
+          245,
+          77,
+          10,
+          45
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH AB-",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          117,
+          97,
+          133,
+          49,
+          193,
+          64,
+          9,
+          31
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) GOL DARAH O+",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          547,
+          356,
+          681,
+          180,
+          2282,
+          205,
+          73,
+          388
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH O+",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          610,
+          336,
+          828,
+          195,
+          2346,
+          222,
+          83,
+          468
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) GOL DARAH O-",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1175,
+          2832,
+          1428,
+          713,
+          1461,
+          316,
+          70,
+          202
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) GOL DARAH O-",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1081,
+          2920,
+          1334,
+          709,
+          1353,
+          271,
+          71,
+          220
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(L) TIDAK TAHU GOL DARAH",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          581446,
+          617975,
+          1187666,
+          721339,
+          580940,
+          170283,
+          308846,
+          556719
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "(P) TIDAK TAHU GOL DARAH",
+      "region": "Kabupaten",
+      "name": "Banten",
+      "data": [
+        "PANDEGLANG",
+        "LEBAK",
+        "TANGERANG",
+        "SERANG",
+        "KOTA TANGERANG",
+        "KOTA CILEGON",
+        "KOTA SERANG",
+        "KOTA TANGERANG SELATAN"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          547727,
+          581637,
+          1139446,
+          688869,
+          571607,
+          165268,
+          293644,
+          547993
         ]
       }
     ]
