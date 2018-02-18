@@ -1,170 +1,598 @@
 [
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2012",
-      "index": "Banten-2012"
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH A",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH A2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.66,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":7901,"name":"PANDEGLANG"},
+          {"value":2494,"name":"LEBAK"},
+          {"value":30970,"name":"TANGERANG"},
+          {"value":3128,"name":"SERANG"},
+          {"value":50539,"name":"KOTA TANGERANG"},
+          {"value":7935,"name":"KOTA CILEGON"},
+          {"value":3324,"name":"KOTA SERANG"},
+          {"value":14506,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2013",
-      "index": "Banten-2013"
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH A",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH A 2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.69,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":7211,"name":"PANDEGLANG"},
+        {"value":2372,"name":"LEBAK"},
+        {"value":29352,"name":"TANGERANG"},
+        {"value":2680,"name":"SERANG"},
+        {"value":50527,"name":"KOTA TANGERANG"},
+        {"value":7180,"name":"KOTA CILEGON"},
+        {"value":3086,"name":"KOTA SERANG"},
+        {"value":14933,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
-      "index": "Banten-2014"
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH B",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH B 2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.34,"name":"Angkatan Kerja"},
-          {"value":4.86,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":3322,"name":"PANDEGLANG"},
+        {"value":1543,"name":"LEBAK"},
+        {"value":16450,"name":"TANGERANG"},
+        {"value":2865,"name":"SERANG"},
+        {"value":55243,"name":"KOTA TANGERANG"},
+        {"value":8353,"name":"KOTA CILEGON"},
+        {"value":3337,"name":"KOTA SERANG"},
+        {"value":16548,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
-      "index": "Banten-2015"
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH B",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH B 2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.33,"name":"Angkatan Kerja"},
-          {"value":4.83,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":3221,"name":"PANDEGLANG"},
+        {"value":1591,"name":"LEBAK"},
+        {"value":15977,"name":"TANGERANG"},
+        {"value":2592,"name":"SERANG"},
+        {"value":58602,"name":"KOTA TANGERANG"},
+        {"value":8214,"name":"KOTA CILEGON"},
+        {"value":3262,"name":"KOTA SERANG"},
+        {"value":17417,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2016",
-      "index": "Banten-2016"
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH AB",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH AB 2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.59,"name":"Angkatan Kerja"},
-          {"value":5.09,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":2172,"name":"PANDEGLANG"},
+        {"value":959,"name":"LEBAK"},
+        {"value":7253,"name":"TANGERANG"},
+        {"value":1145,"name":"SERANG"},
+        {"value":25202,"name":"KOTA TANGERANG"},
+        {"value":3446,"name":"KOTA CILEGON"},
+        {"value":1407,"name":"KOTA SERANG"},
+        {"value":6716,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2012",
-      "index": "Indonesia-2012"
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH AB",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH AB 2017"
     },
     "series": [
       {
         "data": [
-          {"value":119.85,"name":"Angkatan Kerja"},
-          {"value":112.5,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":1902,"name":"PANDEGLANG"},
+        {"value":939,"name":"LEBAK"},
+        {"value":6531,"name":"TANGERANG"},
+        {"value":919,"name":"SERANG"},
+        {"value":23053,"name":"KOTA TANGERANG"},
+        {"value":3069,"name":"KOTA CILEGON"},
+        {"value":1190,"name":"KOTA SERANG"},
+        {"value":6277,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2013",
-      "index": "Indonesia-2013"
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH O",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH O 2017"
     },
     "series": [
       {
         "data": [
-          {"value":120.17,"name":"Angkatan Kerja"},
-          {"value":112.76,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":5500,"name":"PANDEGLANG"},
+        {"value":2998,"name":"LEBAK"},
+        {"value":31931,"name":"TANGERANG"},
+        {"value":5057,"name":"SERANG"},
+        {"value":113718,"name":"KOTA TANGERANG"},
+        {"value":15148,"name":"KOTA CILEGON"},
+        {"value":6086,"name":"KOTA SERANG"},
+        {"value":30147,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2014",
-      "index": "Indonesia-2014"
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH O",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH O 2017"
     },
     "series": [
       {
         "data": [
-          {"value":121.87,"name":"Angkatan Kerja"},
-          {"value":114.63,"name":"Rasio penyerapan anggaran per OPD"}
+        {"value":4391,"name":"PANDEGLANG"},
+        {"value":2525,"name":"LEBAK"},
+        {"value":28007,"name":"TANGERANG"},
+        {"value":4025,"name":"SERANG"},
+        {"value":102848,"name":"KOTA TANGERANG"},
+        {"value":12976,"name":"KOTA CILEGON"},
+        {"value":5273,"name":"KOTA SERANG"},
+        {"value":28720,"name":"KOTA TANGERANG SELATAN"}      
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2015",
-      "index": "Indonesia-2015"
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH A+",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH A+ 2017"
     },
     "series": [
       {
         "data": [
-          {"value":122.38,"name":"Angkatan Kerja"},
-          {"value":114.82,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":2761,"name":"PANDEGLANG"},
+          {"value":152,"name":"LEBAK"},
+          {"value":514,"name":"TANGERANG"},
+          {"value":105,"name":"SERANG"},
+          {"value":1699,"name":"KOTA TANGERANG"},
+          {"value":219,"name":"KOTA CILEGON"},
+          {"value":156,"name":"KOTA SERANG"},
+          {"value":431,"name":"KOTA TANGERANG SELATAN"}        
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2016",
-      "index": "Indonesia-2016"
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH A+",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH A+ 2017"
     },
     "series": [
       {
         "data": [
-          {"value":125.44,"name":"Angkatan Kerja"},
-          {"value":118.41,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":2704,"name":"PANDEGLANG"},
+          {"value":116,"name":"LEBAK"},
+          {"value":708,"name":"TANGERANG"},
+          {"value":94,"name":"SERANG"},
+          {"value":2361,"name":"KOTA TANGERANG"},
+          {"value":287,"name":"KOTA CILEGON"},
+          {"value":179,"name":"KOTA SERANG"},
+          {"value":622,"name":"KOTA TANGERANG SELATAN"}        
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH A-",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH A- 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":39,"name":"PANDEGLANG"},
+        {"value":14,"name":"LEBAK"},
+        {"value":40,"name":"TANGERANG"},
+        {"value":9,"name":"SERANG"},
+        {"value":93,"name":"KOTA TANGERANG"},
+        {"value":17,"name":"KOTA CILEGON"},
+        {"value":12,"name":"KOTA SERANG"},
+        {"value":27,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH A-",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH A- 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":40,"name":"PANDEGLANG"},
+        {"value":13,"name":"LEBAK"},
+        {"value":41,"name":"TANGERANG"},
+        {"value":9,"name":"SERANG"},
+        {"value":94,"name":"KOTA TANGERANG"},
+        {"value":10,"name":"KOTA CILEGON"},
+        {"value":8,"name":"KOTA SERANG"},
+        {"value":35,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH B+",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH B+ 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":333,"name":"PANDEGLANG"},
+        {"value":82,"name":"LEBAK"},
+        {"value":60561,"name":"TANGERANG"},
+        {"value":119,"name":"SERANG"},
+        {"value":2049,"name":"KOTA TANGERANG"},
+        {"value":249,"name":"KOTA CILEGON"},
+        {"value":72,"name":"KOTA SERANG"},
+        {"value":575,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH B+",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH B+ 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":379,"name":"PANDEGLANG"},
+        {"value":86,"name":"LEBAK"},
+        {"value":59183,"name":"TANGERANG"},
+        {"value":86,"name":"SERANG"},
+        {"value":2808,"name":"KOTA TANGERANG"},
+        {"value":283,"name":"KOTA CILEGON"},
+        {"value":60,"name":"KOTA SERANG"},
+        {"value":725,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH B-",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH B- 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":43,"name":"PANDEGLANG"},
+        {"value":12,"name":"LEBAK"},
+        {"value":36,"name":"TANGERANG"},
+        {"value":9,"name":"SERANG"},
+        {"value":110,"name":"KOTA TANGERANG"},
+        {"value":15,"name":"KOTA CILEGON"},
+        {"value":11,"name":"KOTA SERANG"},
+        {"value":34,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH B-",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH B- 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":41,"name":"PANDEGLANG"},
+        {"value":10,"name":"LEBAK"},
+        {"value":37,"name":"TANGERANG"},
+        {"value":6,"name":"SERANG"},
+        {"value":133,"name":"KOTA TANGERANG"},
+        {"value":21,"name":"KOTA CILEGON"},
+        {"value":6,"name":"KOTA SERANG"},
+        {"value":48,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH AB+",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH AB+ 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":163,"name":"PANDEGLANG"},
+        {"value":34,"name":"LEBAK"},
+        {"value":250,"name":"TANGERANG"},
+        {"value":21,"name":"SERANG"},
+        {"value":818,"name":"KOTA TANGERANG"},
+        {"value":157,"name":"KOTA CILEGON"},
+        {"value":28,"name":"KOTA SERANG"},
+        {"value":159,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH AB+",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH AB+ 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":194,"name":"PANDEGLANG"},
+        {"value":50,"name":"LEBAK"},
+        {"value":258,"name":"TANGERANG"},
+        {"value":27,"name":"SERANG"},
+        {"value":1104,"name":"KOTA TANGERANG"},
+        {"value":141,"name":"KOTA CILEGON"},
+        {"value":17,"name":"KOTA SERANG"},
+        {"value":218,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH AB-",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH AB- 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":128,"name":"PANDEGLANG"},
+        {"value":115,"name":"LEBAK"},
+        {"value":188,"name":"TANGERANG"},
+        {"value":53,"name":"SERANG"},
+        {"value":245,"name":"KOTA TANGERANG"},
+        {"value":77,"name":"KOTA CILEGON"},
+        {"value":10,"name":"KOTA SERANG"},
+        {"value":45,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH AB-",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH AB- 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":117,"name":"PANDEGLANG"},
+        {"value":97,"name":"LEBAK"},
+        {"value":133,"name":"TANGERANG"},
+        {"value":49,"name":"SERANG"},
+        {"value":193,"name":"KOTA TANGERANG"},
+        {"value":64,"name":"KOTA CILEGON"},
+        {"value":9,"name":"KOTA SERANG"},
+        {"value":31,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH O+",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH O+ 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":547,"name":"PANDEGLANG"},
+        {"value":356,"name":"LEBAK"},
+        {"value":681,"name":"TANGERANG"},
+        {"value":180,"name":"SERANG"},
+        {"value":2282,"name":"KOTA TANGERANG"},
+        {"value":205,"name":"KOTA CILEGON"},
+        {"value":73,"name":"KOTA SERANG"},
+        {"value":388,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH O+",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH O+ 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":610,"name":"PANDEGLANG"},
+        {"value":336,"name":"LEBAK"},
+        {"value":828,"name":"TANGERANG"},
+        {"value":195,"name":"SERANG"},
+        {"value":2346,"name":"KOTA TANGERANG"},
+        {"value":222,"name":"KOTA CILEGON"},
+        {"value":83,"name":"KOTA SERANG"},
+        {"value":468,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) GOL DARAH O-",
+      "yyyy": "2017",
+      "index": "(L) GOL DARAH O- 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1175,"name":"PANDEGLANG"},
+        {"value":2832,"name":"LEBAK"},
+        {"value":1428,"name":"TANGERANG"},
+        {"value":713,"name":"SERANG"},
+        {"value":1461,"name":"KOTA TANGERANG"},
+        {"value":316,"name":"KOTA CILEGON"},
+        {"value":70,"name":"KOTA SERANG"},
+        {"value":202,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) GOL DARAH O-",
+      "yyyy": "2017",
+      "index": "(P) GOL DARAH O- 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":1081,"name":"PANDEGLANG"},
+        {"value":2920,"name":"LEBAK"},
+        {"value":1334,"name":"TANGERANG"},
+        {"value":709,"name":"SERANG"},
+        {"value":1353,"name":"KOTA TANGERANG"},
+        {"value":271,"name":"KOTA CILEGON"},
+        {"value":71,"name":"KOTA SERANG"},
+        {"value":220,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(L) TIDAK TAHU GOL DARAH",
+      "yyyy": "2017",
+      "index": "(L) TIDAK TAHU GOL DARAH 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":581446,"name":"PANDEGLANG"},
+        {"value":617975,"name":"LEBAK"},
+        {"value":1187666,"name":"TANGERANG"},
+        {"value":721339,"name":"SERANG"},
+        {"value":580940,"name":"KOTA TANGERANG"},
+        {"value":170283,"name":"KOTA CILEGON"},
+        {"value":308846,"name":"KOTA SERANG"},
+        {"value":556719,"name":"KOTA TANGERANG SELATAN"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "Golongan Darah",
+      "region": "Kabupaten/Kota",
+      "name": "(P) TIDAK TAHU GOL DARAH",
+      "yyyy": "2017",
+      "index": "(P) TIDAK TAHU GOL DARAH 2017"
+    },
+    "series": [
+      {
+        "data": [
+        {"value":547727,"name":"PANDEGLANG"},
+        {"value":581637,"name":"LEBAK"},
+        {"value":1139446,"name":"TANGERANG"},
+        {"value":688869,"name":"SERANG"},
+        {"value":571607,"name":"KOTA TANGERANG"},
+        {"value":165268,"name":"KOTA CILEGON"},
+        {"value":293644,"name":"KOTA SERANG"},
+        {"value":547993,"name":"KOTA TANGERANG SELATAN"}
         ]
       }
     ]
