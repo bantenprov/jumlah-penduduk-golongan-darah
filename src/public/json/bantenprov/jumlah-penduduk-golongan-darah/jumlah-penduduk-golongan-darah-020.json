@@ -1,9 +1,9 @@
 [
   {
     "xAxis": {
-      "category": "(L) GOL DARAH A",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH A",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -32,9 +32,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH A",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH A",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -63,9 +63,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH B",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH B",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -94,9 +94,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH B",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH B",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -125,9 +125,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH AB",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH AB",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -156,9 +156,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH AB",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH AB",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -187,9 +187,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH O",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH O",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -218,9 +218,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH O",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH O",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -249,9 +249,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH A+",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH A+",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -280,9 +280,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH A+",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH A+",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -311,9 +311,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH A-",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH A-",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -342,9 +342,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH A-",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH A-",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -373,9 +373,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH B+",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH B+",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -404,9 +404,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH B+",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH B+",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -435,9 +435,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH B-",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH B-",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -466,9 +466,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH B-",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH B-",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -497,9 +497,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH AB+",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH AB+",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -528,9 +528,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH AB+",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH AB+",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -559,9 +559,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH AB-",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH AB-",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -590,9 +590,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH AB-",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH AB-",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -621,9 +621,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH O+",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH O+",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -652,9 +652,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH O+",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH O+",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -683,9 +683,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) GOL DARAH O-",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) GOL DARAH O-",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -714,9 +714,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) GOL DARAH O-",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) GOL DARAH O-",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -745,9 +745,9 @@
   },
   {
     "xAxis": {
-      "category": "(L) TIDAK TAHU GOL DARAH",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(L) TIDAK TAHU GOL DARAH",
       "data": [
         "PANDEGLANG",
         "LEBAK",
@@ -776,9 +776,9 @@
   },
   {
     "xAxis": {
-      "category": "(P) TIDAK TAHU GOL DARAH",
-      "region": "Kabupaten",
-      "name": "Banten",
+      "category": "Kabupaten/Kota",
+      "region": "Banten",
+      "name": "(P) TIDAK TAHU GOL DARAH",
       "data": [
         "PANDEGLANG",
         "LEBAK",
