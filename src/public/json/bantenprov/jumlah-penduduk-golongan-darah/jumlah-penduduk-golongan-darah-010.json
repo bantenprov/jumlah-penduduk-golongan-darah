@@ -1,210 +1,552 @@
 [
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2012",
-      "index": "Banten-2012",
+      "type": "Golongan Darah",
+      "region": "Banten",
+      "name": "Pandeglang",
+      "yyyy": "2017",
+      "index": "Pandeglang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) GOL DARAH A",
+        "(P) GOL DARAH A",
+        "(L) GOL DARAH B",
+        "(P) GOL DARAH B",
+        "(L) GOL DARAH AB",
+        "(P) GOL DARAH AB",
+        "(L) GOL DARAH O",
+        "(P) GOL DARAH O",
+        "(L) GOL DARAH A+",
+        "(P) GOL DARAH A+",
+        "(L) GOL DARAH A-",
+        "(P) GOL DARAH A-",
+        "(L) GOL DARAH B+",
+        "(P) GOL DARAH B+",
+        "(L) GOL DARAH B-",
+        "(P) GOL DARAH B-",
+        "(L) GOL DARAH AB+",
+        "(P) GOL DARAH AB+",
+        "(L) GOL DARAH AB-",
+        "(P) GOL DARAH AB-",
+        "(L) GOL DARAH O+",
+        "(P) GOL DARAH O+",
+        "(L) GOL DARAH O-",
+        "(P) GOL DARAH O-",
+        "(L) TIDAK TAHU GOL DARAH",
+        "(P) TIDAK TAHU GOL DARAH"
       ]
     },
     "series": [
       {
         "data": [
-          5.59,
-          5.09        
+          7901,
+          7211,
+          3322,
+          3221,
+          2172,
+          1902,
+          5500,
+          4391,
+          2761,
+          2704,
+          39,
+          40,
+          333,
+          379,
+          43,
+          41,
+          163,
+          194,
+          128,
+          117,
+          547,
+          610,
+          1175,
+          1081,
+          581446,
+          547727
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2012",
-      "index": "Indonesia-2012",
+      "type": "Golongan Darah",
+      "region": "Banten",
+      "name": "Lebak",
+      "yyyy": "2017",
+      "index": "Lebak-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) GOL DARAH A",
+        "(P) GOL DARAH A",
+        "(L) GOL DARAH B",
+        "(P) GOL DARAH B",
+        "(L) GOL DARAH AB",
+        "(P) GOL DARAH AB",
+        "(L) GOL DARAH O",
+        "(P) GOL DARAH O",
+        "(L) GOL DARAH A+",
+        "(P) GOL DARAH A+",
+        "(L) GOL DARAH A-",
+        "(P) GOL DARAH A-",
+        "(L) GOL DARAH B+",
+        "(P) GOL DARAH B+",
+        "(L) GOL DARAH B-",
+        "(P) GOL DARAH B-",
+        "(L) GOL DARAH AB+",
+        "(P) GOL DARAH AB+",
+        "(L) GOL DARAH AB-",
+        "(P) GOL DARAH AB-",
+        "(L) GOL DARAH O+",
+        "(P) GOL DARAH O+",
+        "(L) GOL DARAH O-",
+        "(P) GOL DARAH O-",
+        "(L) TIDAK TAHU GOL DARAH",
+        "(P) TIDAK TAHU GOL DARAH"
       ]
     },
     "series": [
       {
         "data": [
-          119.85,
-          112.5
+          2494,
+          2372,
+          1543,
+          1591,
+          959,
+          939,
+          2998,
+          2525,
+          152,
+          116,
+          14,
+          13,
+          82,
+          86,
+          12,
+          10,
+          34,
+          50,
+          115,
+          97,
+          356,
+          336,
+          2832,
+          2920,
+          617975,
+          581637
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2013",
-      "index": "Banten-2013",
+      "type": "Golongan Darah",
+      "region": "Banten",
+      "name": "Tangerang",
+      "yyyy": "2017",
+      "index": "Tangerang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) GOL DARAH A",
+        "(P) GOL DARAH A",
+        "(L) GOL DARAH B",
+        "(P) GOL DARAH B",
+        "(L) GOL DARAH AB",
+        "(P) GOL DARAH AB",
+        "(L) GOL DARAH O",
+        "(P) GOL DARAH O",
+        "(L) GOL DARAH A+",
+        "(P) GOL DARAH A+",
+        "(L) GOL DARAH A-",
+        "(P) GOL DARAH A-",
+        "(L) GOL DARAH B+",
+        "(P) GOL DARAH B+",
+        "(L) GOL DARAH B-",
+        "(P) GOL DARAH B-",
+        "(L) GOL DARAH AB+",
+        "(P) GOL DARAH AB+",
+        "(L) GOL DARAH AB-",
+        "(P) GOL DARAH AB-",
+        "(L) GOL DARAH O+",
+        "(P) GOL DARAH O+",
+        "(L) GOL DARAH O-",
+        "(P) GOL DARAH O-",
+        "(L) TIDAK TAHU GOL DARAH",
+        "(P) TIDAK TAHU GOL DARAH"
       ]
     },
     "series": [
       {
         "data": [
-          5.59,
-          5.09
+          30970,
+          29352,
+          16450,
+          15977,
+          7253,
+          6531,
+          31931,
+          28007,
+          514,
+          708,
+          40,
+          41,
+          60561,
+          59183,
+          36,
+          37,
+          250,
+          258,
+          188,
+          133,
+          681,
+          828,
+          1428,
+          1334,
+          1187666,
+          1139446
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2013",
-      "index": "Indonesia-2013",
+      "type": "Golongan Darah",
+      "region": "Banten",
+      "name": "Serang",
+      "yyyy": "2017",
+      "index": "Serang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) GOL DARAH A",
+        "(P) GOL DARAH A",
+        "(L) GOL DARAH B",
+        "(P) GOL DARAH B",
+        "(L) GOL DARAH AB",
+        "(P) GOL DARAH AB",
+        "(L) GOL DARAH O",
+        "(P) GOL DARAH O",
+        "(L) GOL DARAH A+",
+        "(P) GOL DARAH A+",
+        "(L) GOL DARAH A-",
+        "(P) GOL DARAH A-",
+        "(L) GOL DARAH B+",
+        "(P) GOL DARAH B+",
+        "(L) GOL DARAH B-",
+        "(P) GOL DARAH B-",
+        "(L) GOL DARAH AB+",
+        "(P) GOL DARAH AB+",
+        "(L) GOL DARAH AB-",
+        "(P) GOL DARAH AB-",
+        "(L) GOL DARAH O+",
+        "(P) GOL DARAH O+",
+        "(L) GOL DARAH O-",
+        "(P) GOL DARAH O-",
+        "(L) TIDAK TAHU GOL DARAH",
+        "(P) TIDAK TAHU GOL DARAH"
       ]
     },
     "series": [
       {
         "data": [
-          120.17,
-          112.76
+          3128,
+          2680,
+          2865,
+          2592,
+          1145,
+          919,
+          5057,
+          4025,
+          105,
+          94,
+          9,
+          9,
+          119,
+          86,
+          9,
+          6,
+          21,
+          27,
+          53,
+          49,
+          180,
+          195,
+          713,
+          709,
+          721339,
+          688869
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
-      "index": "Banten-2014",
+      "type": "Golongan Darah",
+      "region": "Banten",
+      "name": "Kota Tangerang",
+      "yyyy": "2017",
+      "index": "Kota Tangerang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) GOL DARAH A",
+        "(P) GOL DARAH A",
+        "(L) GOL DARAH B",
+        "(P) GOL DARAH B",
+        "(L) GOL DARAH AB",
+        "(P) GOL DARAH AB",
+        "(L) GOL DARAH O",
+        "(P) GOL DARAH O",
+        "(L) GOL DARAH A+",
+        "(P) GOL DARAH A+",
+        "(L) GOL DARAH A-",
+        "(P) GOL DARAH A-",
+        "(L) GOL DARAH B+",
+        "(P) GOL DARAH B+",
+        "(L) GOL DARAH B-",
+        "(P) GOL DARAH B-",
+        "(L) GOL DARAH AB+",
+        "(P) GOL DARAH AB+",
+        "(L) GOL DARAH AB-",
+        "(P) GOL DARAH AB-",
+        "(L) GOL DARAH O+",
+        "(P) GOL DARAH O+",
+        "(L) GOL DARAH O-",
+        "(P) GOL DARAH O-",
+        "(L) TIDAK TAHU GOL DARAH",
+        "(P) TIDAK TAHU GOL DARAH"
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          4.86          
+          50539,
+          50527,
+          55243,
+          58602,
+          25202,
+          23053,
+          113718,
+          102848,
+          1699,
+          2361,
+          93,
+          94,
+          2049,
+          2808,
+          110,
+          133,
+          818,
+          1104,
+          245,
+          193,
+          2282,
+          2346,
+          1461,
+          1353,
+          580940,
+          571607
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2014",
-      "index": "Indonesia-2014",
+      "type": "Golongan Darah",
+      "region": "Banten",
+      "name": "Kota Cilegon",
+      "yyyy": "2017",
+      "index": "Kota Cilegon-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) GOL DARAH A",
+        "(P) GOL DARAH A",
+        "(L) GOL DARAH B",
+        "(P) GOL DARAH B",
+        "(L) GOL DARAH AB",
+        "(P) GOL DARAH AB",
+        "(L) GOL DARAH O",
+        "(P) GOL DARAH O",
+        "(L) GOL DARAH A+",
+        "(P) GOL DARAH A+",
+        "(L) GOL DARAH A-",
+        "(P) GOL DARAH A-",
+        "(L) GOL DARAH B+",
+        "(P) GOL DARAH B+",
+        "(L) GOL DARAH B-",
+        "(P) GOL DARAH B-",
+        "(L) GOL DARAH AB+",
+        "(P) GOL DARAH AB+",
+        "(L) GOL DARAH AB-",
+        "(P) GOL DARAH AB-",
+        "(L) GOL DARAH O+",
+        "(P) GOL DARAH O+",
+        "(L) GOL DARAH O-",
+        "(P) GOL DARAH O-",
+        "(L) TIDAK TAHU GOL DARAH",
+        "(P) TIDAK TAHU GOL DARAH"
       ]
     },
     "series": [
       {
         "data": [
-          121.87,
-          114.63
+          7935,
+          7180,
+          8353,
+          8214,
+          3446,
+          3069,
+          15148,
+          12976,
+          219,
+          287,
+          17,
+          10,
+          249,
+          283,
+          15,
+          21,
+          157,
+          141,
+          77,
+          64,
+          205,
+          222,
+          316,
+          271,
+          170283,
+          165268
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
-      "index": "Banten-2015",
+      "type": "Golongan Darah",
+      "region": "Banten",
+      "name": "Kota Serang",
+      "yyyy": "2017",
+      "index": "Kota Serang-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) GOL DARAH A",
+        "(P) GOL DARAH A",
+        "(L) GOL DARAH B",
+        "(P) GOL DARAH B",
+        "(L) GOL DARAH AB",
+        "(P) GOL DARAH AB",
+        "(L) GOL DARAH O",
+        "(P) GOL DARAH O",
+        "(L) GOL DARAH A+",
+        "(P) GOL DARAH A+",
+        "(L) GOL DARAH A-",
+        "(P) GOL DARAH A-",
+        "(L) GOL DARAH B+",
+        "(P) GOL DARAH B+",
+        "(L) GOL DARAH B-",
+        "(P) GOL DARAH B-",
+        "(L) GOL DARAH AB+",
+        "(P) GOL DARAH AB+",
+        "(L) GOL DARAH AB-",
+        "(P) GOL DARAH AB-",
+        "(L) GOL DARAH O+",
+        "(P) GOL DARAH O+",
+        "(L) GOL DARAH O-",
+        "(P) GOL DARAH O-",
+        "(L) TIDAK TAHU GOL DARAH",
+        "(P) TIDAK TAHU GOL DARAH"
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          4.86          
+          3324,
+          3086,
+          3337,
+          3262,
+          1407,
+          1190,
+          6086,
+          5273,
+          156,
+          179,
+          12,
+          8,
+          72,
+          60,
+          11,
+          6,
+          28,
+          17,
+          10,
+          9,
+          73,
+          83,
+          70,
+          71,
+          308846,
+          293644
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2015",
-      "index": "Indonesia-2015",
+      "type": "Golongan Darah",
+      "region": "Banten",
+      "name": " Kota Tangerang Selatan",
+      "yyyy": "2017",
+      "index": "Kota Tangerang Selatan-2017",
       "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
+        "(L) GOL DARAH A",
+        "(P) GOL DARAH A",
+        "(L) GOL DARAH B",
+        "(P) GOL DARAH B",
+        "(L) GOL DARAH AB",
+        "(P) GOL DARAH AB",
+        "(L) GOL DARAH O",
+        "(P) GOL DARAH O",
+        "(L) GOL DARAH A+",
+        "(P) GOL DARAH A+",
+        "(L) GOL DARAH A-",
+        "(P) GOL DARAH A-",
+        "(L) GOL DARAH B+",
+        "(P) GOL DARAH B+",
+        "(L) GOL DARAH B-",
+        "(P) GOL DARAH B-",
+        "(L) GOL DARAH AB+",
+        "(P) GOL DARAH AB+",
+        "(L) GOL DARAH AB-",
+        "(P) GOL DARAH AB-",
+        "(L) GOL DARAH O+",
+        "(P) GOL DARAH O+",
+        "(L) GOL DARAH O-",
+        "(P) GOL DARAH O-",
+        "(L) TIDAK TAHU GOL DARAH",
+        "(P) TIDAK TAHU GOL DARAH"
       ]
     },
     "series": [
       {
         "data": [
-          121.87,
-          114.63
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2016",
-      "index": "Banten-2016",
-      "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          5.59,
-          5.09
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2016",
-      "index": "Indonesia-2016",
-      "data": [
-        "Angkatan Kerja",
-        "Rasio penyerapan anggaran per OPD"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          125.44,
-          118.41
+          14506,
+          14933,
+          16548,
+          17417,
+          6716,
+          6277,
+          30147,
+          28720,
+          431,
+          622,
+          27,
+          35,
+          575,
+          725,
+          34,
+          48,
+          159,
+          218,
+          45,
+          31,
+          388,
+          468,
+          202,
+          220,
+          556719,
+          547993
         ]
       }
     ]

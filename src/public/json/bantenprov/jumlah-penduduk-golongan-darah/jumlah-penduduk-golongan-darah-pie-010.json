@@ -1,170 +1,328 @@
 [
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2012",
-      "index": "Banten-2012"
+      "type": "Golongan Darah",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
+      "yyyy": "2017",
+      "index": "Pandeglang-2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.66,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":7901,"name":"(L) GOL DARAH A"},
+          {"value":7211,"name":"(P) GOL DARAH A"},
+          {"value":3322,"name":"(L) GOL DARAH B"},
+          {"value":3221,"name":"(P) GOL DARAH B"},
+          {"value":2172,"name":"(L) GOL DARAH AB"},
+          {"value":1902,"name":"(P) GOL DARAH AB"},
+          {"value":5500,"name":"(L) GOL DARAH O"},
+          {"value":4391,"name":"(P) GOL DARAH O"},
+          {"value":2761,"name":"(L) GOL DARAH A+"},	
+          {"value":2704,"name":"(P) GOL DARAH A+"},
+          {"value":39,"name":"(L) GOL DARAH A-"},
+          {"value":40,"name":"(P) GOL DARAH A-"},
+          {"value":333,"name":"(L) GOL DARAH B+"},
+          {"value":379,"name":"(P) GOL DARAH B+"},
+          {"value":43,"name":"(L) GOL DARAH B-"},
+          {"value":41,"name":"(P) GOL DARAH B-"},
+          {"value":163,"name":"(L) GOL DARAH AB+"},
+          {"value":194,"name":"(P) GOL DARAH AB+"},
+          {"value":128,"name":"(L) GOL DARAH AB-"},
+          {"value":117,"name":"(P) GOL DARAH AB-"},
+          {"value":547,"name":"(L) GOL DARAH O+"},
+          {"value":610,"name":"(P) GOL DARAH O+"},
+          {"value":1175,"name":"(L) GOL DARAH O-"},
+          {"value":1081,"name":"(P) GOL DARAH O-"},
+          {"value":581446,"name":"(L) TIDAK TAHU GOL DARAH"},
+          {"value":547727,"name":"(P) TIDAK TAHU GOL DARAH"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2012",
-      "index": "Indonesia-2012"
+      "type": "Golongan Darah",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "yyyy": "2017",
+      "index": "Lebak-2017"
     },
     "series": [
       {
         "data": [
-          {"value":119.85,"name":"Angkatan Kerja"},
-          {"value":112.5,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":2494,"name":"(L) GOL DARAH A"},
+          {"value":2372,"name":"(P) GOL DARAH A"},
+          {"value":1543,"name":"(L) GOL DARAH B"},
+          {"value":1591,"name":"(P) GOL DARAH B"},
+          {"value":959,"name":"(L) GOL DARAH AB"},
+          {"value":939,"name":"(P) GOL DARAH AB"},
+          {"value":2998,"name":"(L) GOL DARAH O"},
+          {"value":2525,"name":"(P) GOL DARAH O"},
+          {"value":152,"name":"(L) GOL DARAH A+"},
+          {"value":116,"name":"(P) GOL DARAH A+"},
+          {"value":14,"name":"(L) GOL DARAH A-"},
+          {"value":13,"name":"(P) GOL DARAH A-"},
+          {"value":82,"name":"(L) GOL DARAH B+"},	
+          {"value":86,"name":"(P) GOL DARAH B+"},	
+          {"value":12,"name":"(L) GOL DARAH B-"},
+          {"value":10,"name":"(P) GOL DARAH B-"},	
+          {"value":34,"name":"(L) GOL DARAH AB+"},
+          {"value":50,"name":"(P) GOL DARAH AB+"},
+          {"value":115,"name":"(L) GOL DARAH AB-"},
+          {"value":97,"name":"(P) GOL DARAH AB-"},
+          {"value":356,"name":"(L) GOL DARAH O+"},
+          {"value":336,"name":"(P) GOL DARAH O+"},
+          {"value":2832,"name":"(L) GOL DARAH O-"},
+          {"value":2920,"name":"(P) GOL DARAH O-"},
+          {"value":617975,"name":"(L) TIDAK TAHU GOL DARAH"},	
+          {"value":581637,"name":"(P) TIDAK TAHU GOL DARAH"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2013",
-      "index": "Banten-2013"
+      "type": "Golongan Darah",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "yyyy": "2017",
+      "index": "Tangerang-2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.69,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":30970,"name":"(L) GOL DARAH A"},
+          {"value":29352,"name":"(P) GOL DARAH A"},
+          {"value":16450,"name":"(L) GOL DARAH B"},
+          {"value":15977,"name":"(P) GOL DARAH B"},
+          {"value":7253,"name":"(L) GOL DARAH AB"},
+          {"value":6531,"name":"(P) GOL DARAH AB"},
+          {"value":31931,"name":"(L) GOL DARAH O"},
+          {"value":28007,"name":"(P) GOL DARAH O"},
+          {"value":514,"name":"(L) GOL DARAH A+"},
+          {"value":708,"name":"(P) GOL DARAH A+"},
+          {"value":40,"name":"(L) GOL DARAH A-"},
+          {"value":41,"name":"(P) GOL DARAH A-"},
+          {"value":60561,"name":"(L) GOL DARAH B+"},
+          {"value":59183,"name":"(P) GOL DARAH B+"},
+          {"value":36,"name":"(L) GOL DARAH B-"},
+          {"value":37,"name":"(P) GOL DARAH B-"},
+          {"value":250,"name":"(L) GOL DARAH AB+"},
+          {"value":258,"name":"(P) GOL DARAH AB+"},
+          {"value":188,"name":"(L) GOL DARAH AB-"},
+          {"value":133,"name":"(P) GOL DARAH AB-"},
+          {"value":681,"name":"(L) GOL DARAH O+"},
+          {"value":828,"name":"(P) GOL DARAH O+"},
+          {"value":1428,"name":"(L) GOL DARAH O-"},
+          {"value":1334,"name":"(P) GOL DARAH O-"},
+          {"value":1187666,"name":"(L) TIDAK TAHU GOL DARAH"},
+          {"value":1139446,"name":"(P) TIDAK TAHU GOL DARAH"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2013",
-      "index": "Indonesia-2013"
+      "type": "Golongan Darah",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "yyyy": "2017",
+      "index": "Serang-2017"
     },
     "series": [
       {
         "data": [
-          {"value":120.17,"name":"Angkatan Kerja"},
-          {"value":112.76,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":3128,"name":"(L) GOL DARAH A"},
+          {"value":2680,"name":"(P) GOL DARAH A"},
+          {"value":2865,"name":"(L) GOL DARAH B"},
+          {"value":2592,"name":"(P) GOL DARAH B"},
+          {"value":1145,"name":"(L) GOL DARAH AB"},
+          {"value":919,"name":"(P) GOL DARAH AB"},
+          {"value":5057,"name":"(L) GOL DARAH O"},
+          {"value":4025,"name":"(P) GOL DARAH O"},
+          {"value":105,"name":"(L) GOL DARAH A+"},
+          {"value":94,"name":"(P) GOL DARAH A+"},
+          {"value":9,"name":"(L) GOL DARAH A-"},
+          {"value":9,"name":"(P) GOL DARAH A-"},
+          {"value":119,"name":"(L) GOL DARAH B+"},
+          {"value":86,"name":"(P) GOL DARAH B+"},
+          {"value":9,"name":"(L) GOL DARAH B-"},
+          {"value":6,"name":"(P) GOL DARAH B-"},
+          {"value":21,"name":"(L) GOL DARAH AB+"},
+          {"value":27,"name":"(P) GOL DARAH AB+"},
+          {"value":53,"name":"(L) GOL DARAH AB-"},
+          {"value":49,"name":"(P) GOL DARAH AB-"},
+          {"value":180,"name":"(L) GOL DARAH O+"},
+          {"value":195,"name":"(P) GOL DARAH O+"},
+          {"value":713,"name":"(L) GOL DARAH O-"},
+          {"value":709,"name":"(P) GOL DARAH O-"},
+          {"value":721339,"name":"(L) TIDAK TAHU GOL DARAH"},
+          {"value":688869,"name":"(P) TIDAK TAHU GOL DARAH"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
-      "index": "Banten-2014"
+      "type": "Golongan Darah",
+      "region": "Kota",
+      "name": "Kota Tangerang",
+      "yyyy": "2017",
+      "index": "Kota-Tangerang-2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.34,"name":"Angkatan Kerja"},
-          {"value":4.86,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":50539,"name":"(L) GOL DARAH A"},
+          {"value":50527,"name":"(P) GOL DARAH A"},
+          {"value":55243,"name":"(L) GOL DARAH B"},
+          {"value":58602,"name":"(P) GOL DARAH B"},
+          {"value":25202,"name":"(L) GOL DARAH AB"},
+          {"value":23053,"name":"(P) GOL DARAH AB"},
+          {"value":113718,"name":"(L) GOL DARAH O"},
+          {"value":102848,"name":"(P) GOL DARAH O"},
+          {"value":1699,"name":"(L) GOL DARAH A+"},
+          {"value":2361,"name":"(P) GOL DARAH A+"},
+          {"value":93,"name":"(L) GOL DARAH A-"},
+          {"value":94,"name":"(P) GOL DARAH A-"},
+          {"value":2049,"name":"(L) GOL DARAH B+"},
+          {"value":2808,"name":"(P) GOL DARAH B+"},
+          {"value":110,"name":"(L) GOL DARAH B-"},
+          {"value":133,"name":"(P) GOL DARAH B-"},
+          {"value":818,"name":"(L) GOL DARAH AB+"},
+          {"value":1104,"name":"(P) GOL DARAH AB+"},
+          {"value":245,"name":"(L) GOL DARAH AB-"},
+          {"value":193,"name":"(P) GOL DARAH AB-"},
+          {"value":2282,"name":"(L) GOL DARAH O+"},
+          {"value":2346,"name":"(P) GOL DARAH O+"},
+          {"value":1461,"name":"(L) GOL DARAH O-"},
+          {"value":1353,"name":"(P) GOL DARAH O-"},
+          {"value":580940,"name":"(L) TIDAK TAHU GOL DARAH"},
+          {"value":571607,"name":"(P) TIDAK TAHU GOL DARAH"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2014",
-      "index": "Indonesia-2014"
+      "type": "Golongan Darah",
+      "region": "Kota",
+      "name": "Kota Cilegon",
+      "yyyy": "2017",
+      "index": "Kota-Cilegon-2017"
     },
     "series": [
       {
         "data": [
-          {"value":121.87,"name":"Angkatan Kerja"},
-          {"value":114.63,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":7935,"name":"(L) GOL DARAH A"},
+          {"value":7180,"name":"(P) GOL DARAH A"},
+          {"value":8353,"name":"(L) GOL DARAH B"},
+          {"value":8214,"name":"(P) GOL DARAH B"},
+          {"value":3446,"name":"(L) GOL DARAH AB"},
+          {"value":3069,"name":"(P) GOL DARAH AB"},
+          {"value":15148,"name":"(L) GOL DARAH O"},
+          {"value":12976,"name":"(P) GOL DARAH O"},
+          {"value":219,"name":"(L) GOL DARAH A+"},
+          {"value":287,"name":"(P) GOL DARAH A+"},
+          {"value":17,"name":"(L) GOL DARAH A-"},
+          {"value":10,"name":"(P) GOL DARAH A-"},
+          {"value":249,"name":"(L) GOL DARAH B+"},
+          {"value":283,"name":"(P) GOL DARAH B+"},
+          {"value":15,"name":"(L) GOL DARAH B-"},
+          {"value":21,"name":"(P) GOL DARAH B-"},
+          {"value":157,"name":"(L) GOL DARAH AB+"},
+          {"value":141,"name":"(P) GOL DARAH AB+"},
+          {"value":77,"name":"(L) GOL DARAH AB-"},
+          {"value":64,"name":"(P) GOL DARAH AB-"},
+          {"value":205,"name":"(L) GOL DARAH O+"},
+          {"value":222,"name":"(P) GOL DARAH O+"},
+          {"value":316,"name":"(L) GOL DARAH O-"},
+          {"value":271,"name":"(P) GOL DARAH O-"},
+          {"value":170283,"name":"(L) TIDAK TAHU GOL DARAH"},
+          {"value":165268,"name":"(P) TIDAK TAHU GOL DARAH"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
-      "index": "Banten-2015"
+      "type": "Golongan Darah",
+      "region": "Kota",
+      "name": "Kota Serang",
+      "yyyy": "2017",
+      "index": "Kota-Serang-2017"
     },
     "series": [
       {
         "data": [
-          {"value":5.33,"name":"Angkatan Kerja"},
-          {"value":4.83,"name":"Rasio penyerapan anggaran per OPD"}
+          {"value":3324,"name":"(L) GOL DARAH A"},
+          {"value":3086,"name":"(P) GOL DARAH A"},
+          {"value":3337,"name":"(L) GOL DARAH B"},
+          {"value":3262,"name":"(P) GOL DARAH B"},
+          {"value":1407,"name":"(L) GOL DARAH AB"},
+          {"value":1190,"name":"(P) GOL DARAH AB"},
+          {"value":6086,"name":"(L) GOL DARAH O"},
+          {"value":5273,"name":"(P) GOL DARAH O"},
+          {"value":156,"name":"(L) GOL DARAH A+"},
+          {"value":179,"name":"(P) GOL DARAH A+"},
+          {"value":12,"name":"(L) GOL DARAH A-"},
+          {"value":8,"name":"(P) GOL DARAH A-"},
+          {"value":72,"name":"(L) GOL DARAH B+"},
+          {"value":60,"name":"(P) GOL DARAH B+"},
+          {"value":11,"name":"(L) GOL DARAH B-"},
+          {"value":6,"name":"(P) GOL DARAH B-"},
+          {"value":28,"name":"(L) GOL DARAH AB+"},
+          {"value":17,"name":"(P) GOL DARAH AB+"},
+          {"value":10,"name":"(L) GOL DARAH AB-"},
+          {"value":9,"name":"(P) GOL DARAH AB-"},
+          {"value":73,"name":"(L) GOL DARAH O+"},
+          {"value":83,"name":"(P) GOL DARAH O+"},
+          {"value":70,"name":"(L) GOL DARAH O-"},
+          {"value":71,"name":"(P) GOL DARAH O-"},
+          {"value":308846,"name":"(L) TIDAK TAHU GOL DARAH"},
+          {"value":293644,"name":"(P) TIDAK TAHU GOL DARAH"}
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2015",
-      "index": "Indonesia-2015"
+      "type": "Golongan Darah",
+      "region": "Kota",
+      "name": "Kota Tangerang Selatan",
+      "yyyy": "2017",
+      "index": "Kota-Tangerang-Selatan-2017"
     },
     "series": [
       {
         "data": [
-          {"value":122.38,"name":"Angkatan Kerja"},
-          {"value":114.82,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "opd",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2016",
-      "index": "Banten-2016"
-    },
-    "series": [
-      {
-        "data": [
-          {"value":5.59,"name":"Angkatan Kerja"},
-          {"value":5.09,"name":"Rasio penyerapan anggaran per OPD"}
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "opd",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2016",
-      "index": "Indonesia-2016"
-    },
-    "series": [
-      {
-        "data": [
-          {"value":125.44,"name":"Angkatan Kerja"},
-          {"value":118.41,"name":"Rasio penyerapan anggaran per OPD"}
+            {"value":14506,"name":"(L) GOL DARAH A"},
+            {"value":14933,"name":"(P) GOL DARAH A"},
+            {"value":16548,"name":"(L) GOL DARAH B"},
+            {"value":17417,"name":"(P) GOL DARAH B"},
+            {"value":6716,"name":"(L) GOL DARAH AB"},
+            {"value":6277,"name":"(P) GOL DARAH AB"},
+            {"value":30147,"name":"(L) GOL DARAH O"},
+            {"value":28720,"name":"(P) GOL DARAH O"},
+            {"value":431,"name":"(L) GOL DARAH A+"},
+            {"value":622,"name":"(P) GOL DARAH A+"},
+            {"value":27,"name":"(L) GOL DARAH A-"},
+            {"value":35,"name":"(P) GOL DARAH A-"},
+            {"value":575,"name":"(L) GOL DARAH B+"},
+            {"value":725,"name":"(P) GOL DARAH B+"},
+            {"value":34,"name":"(L) GOL DARAH B-"},
+            {"value":48,"name":"(P) GOL DARAH B-"},
+            {"value":159,"name":"(L) GOL DARAH AB+"},
+            {"value":218,"name":"(P) GOL DARAH AB+"},
+            {"value":45,"name":"(L) GOL DARAH AB-"},
+            {"value":31,"name":"(P) GOL DARAH AB-"},
+            {"value":388,"name":"(L) GOL DARAH O+"},
+            {"value":468,"name":"(P) GOL DARAH O+"},
+            {"value":202,"name":"(L) GOL DARAH O-"},
+            {"value":220,"name":"(P) GOL DARAH O-"},
+            {"value":556719,"name":"(L) TIDAK TAHU GOL DARAH"},
+            {"value":547993,"name":"(P) TIDAK TAHU GOL DARAH"}
         ]
       }
     ]
