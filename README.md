@@ -16,7 +16,7 @@ Jumlah penduduk berdasarkan golongan darah per desa/kelurahan
 
 - Development snapshot
 ```bash
-$ composer require bantenprov/indikator-kemiskinan-provinsi:dev-master
+$ composer require bantenprov/jumlah-penduduk-golongan-darah:dev-master
 ```
 - Latest release:
 
@@ -24,7 +24,7 @@ $ composer require bantenprov/indikator-kemiskinan-provinsi:dev-master
 ### download via github
 
 ~~~bash
-$ git clone https://github.com/bantenprov/indikator-kemiskinan-provinsi.git
+$ git clone https://github.com/bantenprov/jumlah-penduduk-golongan-darah.git
 ~~~
 
 
@@ -43,7 +43,7 @@ $ git clone https://github.com/bantenprov/indikator-kemiskinan-provinsi.git
     Illuminate\Foundation\Providers\ConsoleSupportServiceProvider::class,
     Illuminate\Cookie\CookieServiceProvider::class,
     //....
-    Bantenprov\IkProvinsi\IkProvinsiServiceProvider::class,
+    Bantenprov\JPGolonganDarah\JPGolonganDarahServiceProvider::class,
 
 ```
 
@@ -66,16 +66,16 @@ children: [
   },
   //== ...
   {
-    path: '/dashboard/ik-provinsi',
+    path: '/admin/dashboard/jumlah-penduduk-golongan-darah',
     components: {
-      main: resolve => require(['./components/views/bantenprov/ik-provinsi/DashboardIkProvinsi.vue'], resolve),
+      main: resolve => require(['./components/bantenprov/jumlah-penduduk-golongan-darah/JPGolonganDarahAdmin.show.vue'], resolve),
       navbar: resolve => require(['./components/Navbar.vue'], resolve),
       sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
     },
     meta: {
-      title: "IK Provinsi"
+      title: "Jumlah Penduduk Golongan Darah"
     }
-  }
+  },
 ```
 
 ```javascript
@@ -86,16 +86,16 @@ component: resolve => require(['./AdminLayout.vue'], resolve),
 children: [
 //== ...
     {
-      path: '/admin/dashboard/ik-provinsi',
+      path: '/admin/dashboard/jumlah-penduduk-golongan-darah',
       components: {
-        main: resolve => require(['./components/bantenprov/ik-provinsi/IkProvinsiAdmin.show.vue'], resolve),
+        main: resolve => require(['./components/bantenprov/jumlah-penduduk-golongan-darah/JPGolonganDarahAdmin.show.vue'], resolve),
         navbar: resolve => require(['./components/Navbar.vue'], resolve),
         sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
       },
       meta: {
-        title: "IK Provinsi"
+        title: "Jumlah Penduduk Golongan Darah"
       }
-    }
+    },
  //== ...   
   ]
 },
@@ -122,9 +122,9 @@ children: [
         },
         //== ...
         {
-          name: 'IK Provinsi',
-          link: '/dashboard/ik-provinsi',
-          icon: 'fa fa-angle-double-right'
+          name: 'Jumlah Penduduk Golongan Darah',
+          link: '/admin/dashboard/jumlah-penduduk-golongan-darah',
+          icon: 'fa fa-angle-right'
         }
   ]
 },
@@ -135,39 +135,27 @@ children: [
 
 ```javascript
 
-import IkProvinsi from './components/bantenprov/ik-provinsi/IkProvinsi.chart.vue';
-Vue.component('echarts-ik-provinsi', IkProvinsi);
+//== Jumlah Penduduk Golongan Darah
+import JPGolonganDarah from './components/bantenprov/jumlah-penduduk-golongan-darah/JPGolonganDarah.chart.vue';
+Vue.component('echarts-jumlah-penduduk-golongan-darah', JPGolonganDarah);
 
-import IkProvinsiKota from './components/bantenprov/ik-provinsi/IkProvinsiKota.chart.vue';
-Vue.component('echarts-ik-provinsi-kota', IkProvinsiKota);
+import JPGolonganDarahBar01 from './components/views/bantenprov/jumlah-penduduk-golongan-darah/JPGolonganDarahBar01.vue';
+Vue.component('jumlah-penduduk-golongan-darah-bar-01', JPGolonganDarahBar01);
 
-import IkProvinsiTahun from './components/bantenprov/ik-provinsi/IkProvinsiTahun.chart.vue';
-Vue.component('echarts-ik-provinsi-tahun', IkProvinsiTahun);
+import JPGolonganDarahBar02 from './components/views/bantenprov/jumlah-penduduk-golongan-darah/JPGolonganDarahBar02.vue';
+Vue.component('jumlah-penduduk-golongan-darah-bar-02', JPGolonganDarahBar02);
 
-import IkProvinsiAdminShow from './components/bantenprov/ik-provinsi/IkProvinsiAdmin.show.vue';
-Vue.component('admin-view-ik-provinsi-tahun', IkProvinsiAdminShow);
+import JPGolonganDarahBar03 from './components/views/bantenprov/jumlah-penduduk-golongan-darah/JPGolonganDarahBar03.vue';
+Vue.component('jumlah-penduduk-golongan-darah-bar-03', JPGolonganDarahBar03);
 
-//== Echarts pdrb
+import JPGolonganDarahPie01 from './components/views/bantenprov/jumlah-penduduk-golongan-darah/JPGolonganDarahPie01.vue';
+Vue.component('jumlah-penduduk-golongan-darah-pie-01', JPGolonganDarahPie01);
 
-import IkProvinsiBar01 from './components/views/bantenprov/ik-provinsi/IkProvinsiBar01.vue';
-Vue.component('ik-provinsi-bar-01', IkProvinsiBar01);
+import JPGolonganDarahPie02 from './components/views/bantenprov/jumlah-penduduk-golongan-darah/JPGolonganDarahPie02.vue';
+Vue.component('jumlah-penduduk-golongan-darah-pie-02', JPGolonganDarahPie02);
 
-import IkProvinsiBar02 from './components/views/bantenprov/ik-provinsi/IkProvinsiBar02.vue';
-Vue.component('ik-provinsi-bar-02', IkProvinsiBar02);
-
-//== mini bar charts
-import IkProvinsiBar03 from './components/views/bantenprov/ik-provinsi/IkProvinsiBar03.vue';
-Vue.component('ik-provinsi-bar-03', IkProvinsiBar03);
-
-import IkProvinsiPie01 from './components/views/bantenprov/ik-provinsi/IkProvinsiPie01.vue';
-Vue.component('ik-provinsi-pie-01', IkProvinsiPie01);
-
-import IkProvinsiPie02 from './components/views/bantenprov/ik-provinsi/IkProvinsiPie02.vue';
-Vue.component('ik-provinsi-pie-02', IkProvinsiPie02);
-
-//== mini pie charts
-import IkProvinsiPie03 from './components/views/bantenprov/ik-provinsi/IkProvinsiPie03.vue';
-Vue.component('ik-provinsi-pie-03', IkProvinsiPie03);
+import JPGolonganDarahPie03 from './components/views/bantenprov/jumlah-penduduk-golongan-darah/JPGolonganDarahPie03.vue';
+Vue.component('jumlah-penduduk-golongan-darah-pie-03', JPGolonganDarahPie03);
 ```
 
 #### Untuk publish component vue :
