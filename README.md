@@ -128,6 +128,30 @@ children: [
         }
   ]
 },
+{
+  name: 'Admin',
+  icon: 'fa fa-lock',
+  childType: 'collapse',
+  childItem: [
+    {
+      name: 'Dashboard',
+      icon: 'fa fa-angle-double-right',
+      child: [
+        {
+          name: 'Home',
+          link: '/admin/dashboard/home',
+          icon: 'fa fa-angle-right'
+        },
+        //== ...
+        {
+          name: 'Jumlah Penduduk Golongan Darah',
+          link: '/admin/dashboard/jumlah-penduduk-golongan-darah',
+          icon: 'fa fa-angle-right'
+        }
+      ]
+    },
+  ]
+}
 ```
 
 
