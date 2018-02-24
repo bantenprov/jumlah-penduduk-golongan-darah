@@ -161,7 +161,7 @@ Vue.component('jumlah-penduduk-golongan-darah-pie-03', JPGolonganDarahPie03);
 #### Untuk publish component vue :
 
 ```bash
-$ php artisan vendor:publish --tag=ik-assets
-$ php artisan vendor:publish --tag=ik-public
+$ php artisan vendor:publish --tag=jumlah-penduduk-golongan-darah-assets
+$ php artisan vendor:publish --tag=jumlah-penduduk-golongan-darah-public
 ```
 
