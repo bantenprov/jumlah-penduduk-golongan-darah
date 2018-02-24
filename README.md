@@ -66,16 +66,16 @@ children: [
   },
   //== ...
   {
-    path: '/admin/dashboard/jumlah-penduduk-golongan-darah',
+    path: '/dashboard/jumlah-penduduk-golongan-darah',
     components: {
-      main: resolve => require(['./components/bantenprov/jumlah-penduduk-golongan-darah/JPGolonganDarahAdmin.show.vue'], resolve),
+      main: resolve => require(['./components/views/bantenprov/jumlah-penduduk-golongan-darah/DashboardJPGolonganDarah.vue'], resolve),
       navbar: resolve => require(['./components/Navbar.vue'], resolve),
       sidebar: resolve => require(['./components/Sidebar.vue'], resolve)
     },
     meta: {
       title: "Jumlah Penduduk Golongan Darah"
     }
-  },
+  }
 ```
 
 ```javascript
